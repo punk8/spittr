@@ -6,7 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f49219a-7fd1-455c-9174-f937da21d1c4" name="Default Changelist" comment="" />
+    <list default="true" id="9f49219a-7fd1-455c-9174-f937da21d1c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/punk/spitter/web/SpittleNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/punk/spitter/config/SpittrWebAppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/punk/spitter/config/SpittrWebAppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/punk/spitter/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/punk/spitter/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/punk/spitter/web/SpitterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/punk/spitter/web/SpitterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/punk/spitter/web/SpittleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/punk/spitter/web/SpittleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/registerForm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/registerForm.jsp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +28,13 @@
         <option value="spring-beans.schema" />
         <option value="HTML File" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -32,12 +44,14 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1Rd8ZHNGuARf8IxK1oXEGBFuqtS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -274,12 +288,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.Tomcat 8.5.431" />
       <item itemvalue="JUnit.ControllerTest.shouldSHowPagedSpittles" />
       <item itemvalue="JUnit.ControllerTest.shouldShowRecentSpittles" />
       <item itemvalue="JUnit.ControllerTest.testSpittle" />
       <item itemvalue="JUnit.ControllerTest.shouldShowRegistration" />
       <item itemvalue="JUnit.ControllerTest.shouldProcessRegistration" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.431" />
     </list>
     <recent_temporary>
       <list>
@@ -302,11 +316,25 @@
       <option name="presentableId" value="Default" />
       <updated>1569985665186</updated>
       <workItem from="1569985666900" duration="6623000" />
-      <workItem from="1569998931844" duration="6505000" />
+      <workItem from="1569998931844" duration="7835000" />
+      <workItem from="1570070872721" duration="1372000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
